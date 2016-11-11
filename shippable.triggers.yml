@@ -1,6 +1,6 @@
 
 triggers:
-   - name: triggerv2sp1
+   - name: triggerv2sp11
      type: trigger
      version:
        counter: 98
