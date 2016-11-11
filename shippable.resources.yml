@@ -1,7 +1,7 @@
 resources:
  
    
-  - name: plv2-image12
+  - name: plv2-image121
     type: image
     integration: ship4-docker
     pointer:
@@ -9,7 +9,7 @@ resources:
     seed:
       versionName: "deploy.1"
       
-  - name: plv21
+  - name: plv211
     type: image
     integration: ship4-docker
     pointer:
