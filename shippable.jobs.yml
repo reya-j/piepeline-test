@@ -6,5 +6,6 @@ jobs:
        # versionName: "deploy.1"
       - IN: plv21
       - IN: triggerv2sp1
+      - TASK: managed
        
 
