@@ -4,17 +4,4 @@ triggers:
      type: trigger
      version:
        counter: 97
-   - name: triggerv2sp2
-     type: trigger
-     version:
-       counter: 180
-       
-   - name: triggerv2sp3
-     type: trigger
-     version:
-       counter: 166
-   
-   - name: triggerv2spP1
-     type: trigger
-     version:
-       counter: 41
+ 
