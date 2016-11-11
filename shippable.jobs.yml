@@ -2,10 +2,10 @@ jobs:
   - name: plv2-man5
     type: manifest
     steps:
-      - IN: plv2-image12
+      - IN: plv2-image121
        # versionName: "deploy.1"
-      - IN: plv21
-      - IN: triggerv2sp1
+      - IN: plv211
+      - IN: triggerv2sp11
       - TASK: managed
        
 
